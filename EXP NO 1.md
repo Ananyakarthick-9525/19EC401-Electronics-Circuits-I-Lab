@@ -1,7 +1,6 @@
 **EXP.NO:01**
-
 <p align="center">
-**REGULATED POWER SUPPLY**
+REGULATED POWER SUPPLY
 </p>
 
 
