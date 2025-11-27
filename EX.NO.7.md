@@ -11,12 +11,14 @@
 <img width="767" height="787" alt="image" src="https://github.com/user-attachments/assets/3593487d-75d4-4b26-b9b0-5eed91e18fb0" />
 
 
-## Tabulation
 
 ## Graph
+<img width="755" height="482" alt="image" src="https://github.com/user-attachments/assets/c16c6c7a-3ed4-405b-ade7-5e8db5ef8348" />
+
 
 
 ## *Result*
+Thus the wein brige oscillator is designed using LT spice
 
 
 
