@@ -31,6 +31,8 @@ REGULATED POWER SUPPLY
 
 **GRAPH**
 ![IMG_20251127_214815](https://github.com/user-attachments/assets/d606e713-7a07-44d1-97d7-d7bff71f7b67)
+![IMG_20251127_230611](https://github.com/user-attachments/assets/fd0705c7-1671-4a89-b077-4ada0c3a8a92)
+
 
 
 
