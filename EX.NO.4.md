@@ -1,4 +1,4 @@
-**EXP.NO:04**
+![WhatsApp Image 2025-11-28 at 10 56 51](https://github.com/user-attachments/assets/fd7cce38-a838-4cf1-8a66-64bf8e9792be)![WhatsApp Image 2025-11-28 at 10 56 51](https://github.com/user-attachments/assets/54ef091f-f4ac-4a18-b59e-66a0d9503a41)**EXP.NO:04**
 <p align="center">
 FREQUENCY RESPONSE OF COMMON COLLECTOR AMPLIFIER
 </p> 
@@ -17,12 +17,15 @@ FREQUENCY RESPONSE OF COMMON COLLECTOR AMPLIFIER
 
 
 **TABULATION**
-![IMG_20251127_221619](https://github.com/user-attachments/assets/4bea20f3-3692-4509-a520-ffce586e81cf)
+![WhatsApp Image 2025-11-28 at 10 57 06](https://github.com/user-attachments/assets/9a125800-9956-413d-a69f-10b62aaf6151)
 
 
-**ATTACH GRAPH**
+
+**GRAPH**
+![WhatsApp Image 2025-11-28 at 10 56 51](https://github.com/user-attachments/assets/cad8f243-8b92-4cc6-a74b-65587b3524a3)
+
 
 **RESULT**
+![WhatsApp Image 2025-11-28 at 10 57 21](https://github.com/user-attachments/assets/ab344603-9454-4529-8e29-d305156950a7)
 
-![IMG_20251127_221638](https://github.com/user-attachments/assets/8c2fc0a4-2734-44c2-a0d2-a142a3f8f975)
 
